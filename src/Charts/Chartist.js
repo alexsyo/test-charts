@@ -29,12 +29,7 @@ class ChartistComponent extends Component {
     height: '600px',
     high: 10,
     low: 0,
-    scaleMinSpace: 200,
-    // axisX: {
-    //   labelInterpolationFnc: function(value, index) {
-    //     return index % 2 === 0 ? value : null;
-    //   }
-    // }
+    scaleMinSpace: 200
   };
 
   render() {
